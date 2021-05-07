@@ -3,9 +3,10 @@
 ## Project includes:
 1. React including hooks and context API.
 2. Redux.
-3. Error Handling and authentication.
-4. Firebase as database.
-5. CSS Modules.
+3. Testing with Enzyme.
+4. Error Handling and authentication.
+5. Firebase as database.
+6. CSS Modules.
 
 ## Available Scripts
 
